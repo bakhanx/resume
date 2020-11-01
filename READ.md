@@ -1,7 +1,6 @@
 # 소개
 
-![profile](profile.jpg) {width=200px;}
-
+![profile](profile.jpg =100x20) 
 * 이름 : 박한솔
 * 전공 : 컴퓨터공학과(빅데이터, 콘텐츠IT)
 * Email : hansol732@naver.com
